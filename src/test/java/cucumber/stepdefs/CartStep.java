@@ -4,7 +4,6 @@ import cucumber.context.TestContext;
 import cucumber.objs.Product;
 import cucumber.pages.CartPage;
 import cucumber.pages.PageFactory;
-import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import org.testng.Assert;
 
