@@ -1,7 +1,6 @@
 package cucumber.stepdefs;
 
 import cucumber.objs.Customer;
-import io.cucumber.datatable.DataTable;
 import io.cucumber.java.DataTableType;
 import io.cucumber.java.en.Given;
 
